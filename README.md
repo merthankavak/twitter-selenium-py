@@ -28,3 +28,4 @@ password = "PASSWORD"       #Your twitter password
 
 ```
 
+* The captured data is output in the txt file.
